@@ -1,3 +1,4 @@
+/* 最直接的办法就是不停的除以这些质数，如果剩余的数字是1的话就是ugly number了，有两种写法 */
 public class Solution {
     public boolean isUgly(int num) { 
         while (num >= 2){

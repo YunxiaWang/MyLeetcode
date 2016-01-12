@@ -1,4 +1,3 @@
-//not submitted yet
 class MyStack {
     // Push element x onto stack.
     Queue<Integer> stack= new LinkedList<>();
